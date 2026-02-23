@@ -5,8 +5,6 @@ Parallel implementation of the Jacobi iterative method for solving systems of li
 
 Parallel implementation of the Jacobi iterative method for solving systems of linear algebraic equations (Ax = b) using MPI.
 
-Developed for CMPE-523 Parallel and Distributed Programming course.
-
 ## Features
 
 - Sequential solver for baseline measurements (T1)
